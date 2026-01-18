@@ -1,33 +1,16 @@
-# How to Connect MailerLite to Google Sheets (Free – No Zapier Required) 
-# Beginner Friendly Guide
+# How to Connect MailerLite to Google Sheets (Free – No Zapier Required) - Beginner Friendly Guide
+`A complete beginner guide to sync your MailerLite subscribers into Google Sheets automatically — without Zapier, Make, or paid tools.`
+## Outcome : Every hour your subscriber list will sync into Google Sheets - 100% FREE !
 
 
-## What You Will Setup  very hour your subscriber list will sync into Google Sheets for free.
-
-A complete beginner guide to sync your MailerLite subscribers into Google Sheets automatically — without Zapier, Make, or paid tools.
-
----
-
-## What You Will Setup  very hour your subscriber list will sync into Google Sheets for free.
-
-```
-Connect MailerLite to Google Sheets
-```
-
-Every hour your subscriber list will sync into Google Sheets for free.
-
----
 
 ## Step 1 — Create Your Google Sheet
 
 1. Go to **Google Sheets**
 2. Click **Blank**
 3. Rename the spreadsheet (optional): `MailerLite Subscribers`
-4. Rename the first tab to exactly:
+4. Rename the first tab to exactly: `Subscribers`
 
-```
-Subscribers
-```
 
 ---
 
