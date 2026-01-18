@@ -22,7 +22,7 @@
 4. Token name: `Google Sheets Subscribers`
 5. Choose **All IPs allowed**
 6. Click **Create token**
-7. Copy the token
+7. Copy the token and save it windows notepad
 
 ---
 
